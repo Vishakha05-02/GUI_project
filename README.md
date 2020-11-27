@@ -1,4 +1,3 @@
 # GUI_project
-Simple calculator using Tkinter
-simple login system with image
+Calculator and simple login system with image using Tkinter
 
